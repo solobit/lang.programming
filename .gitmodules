@@ -1,0 +1,42 @@
+[submodule "pogoscript"]
+	path = pogoscript
+	url = git://github.com/featurist/pogoscript.git
+[submodule "coffee/dialects/icedcoffeescript"]
+	path = coffee/dialects/icedcoffeescript
+	url = git://github.com/maxtaco/coffee-script.git
+[submodule "coffee/coffee-script"]
+	path = coffee/coffee-script
+	url = git://github.com/jashkenas/coffee-script
+[submodule "lisp/dialects/clojurescript"]
+	path = lisp/dialects/clojurescript
+	url = git://github.com/clojure/clojurescript
+[submodule "coffee/dialects/contracts"]
+	path = coffee/dialects/contracts
+	url = git://github.com/disnet/contracts.coffee.git
+[submodule "utils/yadc"]
+	path = utils/yadc
+	url = git://github.com/raganwald/YouAreDaChef.git
+[submodule "coffee/dialects/closure"]
+	path = coffee/dialects/closure
+	url = https://github.com/bolinfest/coffee-script
+[submodule "javascript/ecma6early"]
+	path = javascript/ecma6early
+	url = https://github.com/matthewrobb/six
+[submodule "javascript/dialects/lljs"]
+	path = javascript/dialects/lljs
+	url = git://github.com/mbebenita/LLJS.git
+[submodule "rocambole"]
+	path = rocambole
+	url = git://github.com/millermedeiros/rocambole.git
+[submodule "node-falafel"]
+	path = node-falafel
+	url = git://github.com/substack/node-falafel.git
+[submodule "node-burrito"]
+	path = node-burrito
+	url = git://github.com/substack/node-burrito.git
+[submodule "esmangle"]
+	path = esmangle
+	url = git://github.com/Constellation/esmangle.git
+[submodule "nimble"]
+	path = nimble
+	url = git://github.com/caolan/nimble.git
