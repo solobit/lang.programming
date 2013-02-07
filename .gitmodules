@@ -13,3 +13,6 @@
 [submodule "coffee/dialects/contracts"]
 	path = coffee/dialects/contracts
 	url = git://github.com/disnet/contracts.coffee.git
+[submodule "utils/yadc"]
+	path = utils/yadc
+	url = git://github.com/raganwald/YouAreDaChef.git
