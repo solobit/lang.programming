@@ -19,3 +19,6 @@
 [submodule "coffee/dialects/closure"]
 	path = coffee/dialects/closure
 	url = https://github.com/bolinfest/coffee-script
+[submodule "javascript/ecma6early"]
+	path = javascript/ecma6early
+	url = https://github.com/matthewrobb/six
