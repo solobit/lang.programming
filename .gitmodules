@@ -10,3 +10,6 @@
 [submodule "lisp/dialects/clojurescript"]
 	path = lisp/dialects/clojurescript
 	url = git://github.com/clojure/clojurescript
+[submodule "coffee/dialects/contracts"]
+	path = coffee/dialects/contracts
+	url = git://github.com/disnet/contracts.coffee.git
