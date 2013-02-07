@@ -28,3 +28,12 @@
 [submodule "rocambole"]
 	path = rocambole
 	url = git://github.com/millermedeiros/rocambole.git
+[submodule "node-falafel"]
+	path = node-falafel
+	url = git://github.com/substack/node-falafel.git
+[submodule "node-burrito"]
+	path = node-burrito
+	url = git://github.com/substack/node-burrito.git
+[submodule "esmangle"]
+	path = esmangle
+	url = git://github.com/Constellation/esmangle.git
