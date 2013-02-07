@@ -25,3 +25,6 @@
 [submodule "javascript/dialects/lljs"]
 	path = javascript/dialects/lljs
 	url = git://github.com/mbebenita/LLJS.git
+[submodule "rocambole"]
+	path = rocambole
+	url = git://github.com/millermedeiros/rocambole.git
