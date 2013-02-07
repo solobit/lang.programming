@@ -1,0 +1,12 @@
+[submodule "pogoscript"]
+	path = pogoscript
+	url = git://github.com/featurist/pogoscript.git
+[submodule "coffee/dialects/icedcoffeescript"]
+	path = coffee/dialects/icedcoffeescript
+	url = git://github.com/maxtaco/coffee-script.git
+[submodule "coffee/coffee-script"]
+	path = coffee/coffee-script
+	url = git://github.com/jashkenas/coffee-script
+[submodule "lisp/dialects/clojurescript"]
+	path = lisp/dialects/clojurescript
+	url = git://github.com/clojure/clojurescript
