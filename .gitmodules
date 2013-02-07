@@ -16,3 +16,6 @@
 [submodule "utils/yadc"]
 	path = utils/yadc
 	url = git://github.com/raganwald/YouAreDaChef.git
+[submodule "coffee/dialects/closure"]
+	path = coffee/dialects/closure
+	url = https://github.com/bolinfest/coffee-script
